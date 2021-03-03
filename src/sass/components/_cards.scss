@@ -10,7 +10,8 @@
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  
+      transform: translate3d(0px, -5px, 0px);
+    box-shadow: rgb(204 204 204) 0px 1px 1px, rgb(204 204 204) 0px 4px 4px;
 }
 
 .cell {
