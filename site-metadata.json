@@ -45,7 +45,7 @@
             },
             {
                 "label": "Datenschutzerklärung",
-                "url": "/Datenschutzerklärung",
+                "url": "/datenschutzerklärung",
                 "style": "link",
                 "new_window": false,
                 "no_follow": false,
