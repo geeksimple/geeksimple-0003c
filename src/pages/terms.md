@@ -1,5 +1,5 @@
 ---
-title: Privacy and Terms
+title: Impressum
 seo:
   title: Privacy and Terms
   description: This is the privacy and terms page
