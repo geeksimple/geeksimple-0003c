@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Datenschutzerklärung
 seo:
   title: ''
   description: ''
