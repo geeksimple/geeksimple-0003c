@@ -8,9 +8,7 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-Datenschutzerklärung 
- 
- 
+# Datenschutzerklärung &#xA;
 
 ## Einleitung
 
@@ -41,6 +39,8 @@ Stand: 7. März 2021
 *   [Bereitstellung des Onlineangebotes und Webhosting](#m225)
 
 *   [Blogs und Publikationsmedien](#m104)
+
+*   [Kontaktaufnahme](#m182)
 
 *   [Löschung von Daten](#m12)
 
@@ -78,6 +78,8 @@ Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwec
 
 ### Kategorien betroffener Personen
 
+*   Kommunikationspartner.
+
 *   Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 
 ### Zwecke der Verarbeitung
@@ -85,6 +87,8 @@ Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwec
 *   Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
 
 *   Feedback (z.B. Sammeln von Feedback via Online-Formular).
+
+*   Kontaktanfragen und Kommunikation.
 
 *   Erbringung vertragliche Leistungen und Kundenservice.
 
@@ -175,6 +179,20 @@ Wir nutzen Blogs oder vergleichbare Mittel der Onlinekommunikation und Publikati
 *   **Betroffene Personen:** Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 
 *   **Zwecke der Verarbeitung:** Erbringung vertragliche Leistungen und Kundenservice, Feedback (z.B. Sammeln von Feedback via Online-Formular).
+
+*   **Rechtsgrundlagen:** Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
+
+## Kontaktaufnahme
+
+Bei der Kontaktaufnahme mit uns (z.B. per Kontaktformular, E-Mail, Telefon oder via soziale Medien) werden die Angaben der anfragenden Personen verarbeitet, soweit dies zur Beantwortung der Kontaktanfragen und etwaiger angefragter Maßnahmen erforderlich ist.
+
+Die Beantwortung der Kontaktanfragen im Rahmen von vertraglichen oder vorvertraglichen Beziehungen erfolgt zur Erfüllung unserer vertraglichen Pflichten oder zur Beantwortung von (vor)vertraglichen Anfragen und im Übrigen auf Grundlage der berechtigten Interessen an der Beantwortung der Anfragen.
+
+*   **Verarbeitete Datenarten:** Bestandsdaten (z.B. Namen, Adressen), Kontaktdaten (z.B. E-Mail, Telefonnummern), Inhaltsdaten (z.B. Eingaben in Onlineformularen).
+
+*   **Betroffene Personen:** Kommunikationspartner.
+
+*   **Zwecke der Verarbeitung:** Kontaktanfragen und Kommunikation.
 
 *   **Rechtsgrundlagen:** Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
 
