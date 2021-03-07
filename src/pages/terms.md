@@ -21,9 +21,7 @@ seo:
       value: This is the privacy and terms page
 template: page
 ---
-# Impressum
-
-## Angaben gemäß § 5 TMG
+#### Angaben gemäß § 5 TMG
 
 Ines Bienias
 
