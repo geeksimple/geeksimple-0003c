@@ -21,4 +21,4 @@ seo:
       value: This is the privacy and terms page
 template: page
 ---
-[](https://datenschutz-generator.de/?l=de)
+[t](https://datenschutz-generator.de/?l=de)ed
