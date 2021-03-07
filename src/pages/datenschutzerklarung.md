@@ -53,7 +53,6 @@ Stand: 7. März 2021
 ## Verantwortlicher
 
 Ines Bienias
-
 Im Speitel 60
 
 76229 Karlsruhe
