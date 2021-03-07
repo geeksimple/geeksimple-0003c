@@ -54,9 +54,7 @@ Stand: 7. März 2021
 
 Ines Bienias
 Im Speitel 60
-
 76229 Karlsruhe
-
 E-Mail-Adresse: <kontakt@geeksimple.de>.
 
 ## Übersicht der Verarbeitungen
