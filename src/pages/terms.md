@@ -21,14 +21,22 @@ seo:
       value: This is the privacy and terms page
 template: page
 ---
-Impressum
-Angaben gemäß § 5 TMG
+# Impressum
+
+## Angaben gemäß § 5 TMG
+
 Ines Bienias
+
 Im Speitel, 60
+
 76229 Karlsruhe
-Kontakt
-Telefon: [Telefonnummer]
+
+## Kontakt
+
+Telefon: \[Telefonnummer]
+
 E-Mail: kontakt@geeksimple.de
-Redaktionell Verantwortlicher
+
+## Redaktionell Verantwortlicher
+
 Ines Bienias (Betreiber der Webseite)
-Haftung für Inhalte
