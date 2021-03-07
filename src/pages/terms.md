@@ -35,6 +35,6 @@ Telefon: \[Telefonnummer]
 
 E-Mail: kontakt@geeksimple.de
 
-## Redaktionell Verantwortlicher
+#### Redaktionell Verantwortlicher
 
 Ines Bienias (Betreiber der Webseite)
