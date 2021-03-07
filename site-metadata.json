@@ -29,7 +29,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Contact Us",
+                "label": "Kontakt",
                 "url": "/contact",
                 "style": "link"
             },
