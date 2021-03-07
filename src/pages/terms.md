@@ -39,7 +39,7 @@ Ines Bienias (Betreiber der Webseite)
 
 
 
-### Haftung für Inhalte        &#xA;&#xA;
+#### Haftung für Inhalte        &#xA;&#xA;
 
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
 
