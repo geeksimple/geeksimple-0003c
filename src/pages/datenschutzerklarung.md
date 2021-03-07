@@ -64,6 +64,7 @@ Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwec
 ### Arten der verarbeiteten Daten
 
 *   Bestandsdaten (z.B. Namen, Adressen).
+
 *   Inhaltsdaten (z.B. Eingaben in Onlineformularen).
 
 *   Kontaktdaten (z.B. E-Mail, Telefonnummern).
