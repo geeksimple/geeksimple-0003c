@@ -33,6 +33,7 @@
 
 .navbar__item {
   font-size: 0.875em;
+  color: $color-header-text;
 }
 
 @include media-breakpoint-up(md) {
