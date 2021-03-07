@@ -30,7 +30,6 @@ Im Speitel, 60
 #### Kontakt
 
 Telefon: \[Telefonnummer]
-
 E-Mail: kontakt@geeksimple.de
 
 #### Redaktionell Verantwortlicher
