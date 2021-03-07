@@ -29,7 +29,7 @@ Im Speitel, 60
 
 76229 Karlsruhe
 
-## Kontakt
+#### Kontakt
 
 Telefon: \[Telefonnummer]
 
