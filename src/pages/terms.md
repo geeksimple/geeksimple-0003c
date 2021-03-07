@@ -24,9 +24,7 @@ template: page
 #### Angaben gemäß § 5 TMG
 
 Ines Bienias
-
 Im Speitel, 60
-
 76229 Karlsruhe
 
 #### Kontakt
