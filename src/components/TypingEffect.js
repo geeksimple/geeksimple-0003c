@@ -58,7 +58,6 @@ export default class TypingEffect extends React.Component {
 
   render() {
     const { runningText } = this.state;
-    const cursor = '|';
 
     return (
       <div className="typingArea">
