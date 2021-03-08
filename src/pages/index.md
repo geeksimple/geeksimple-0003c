@@ -48,7 +48,7 @@ sections:
 
 
           Viel Spaß :)
-        align: center
+        align: left
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
