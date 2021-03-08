@@ -39,7 +39,7 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action",
-                "url": "/datenschutzerklaerung"
+                "url": "/datenschutzerklarung"
             },
             {
                 "label": "lorem-ipsum",
