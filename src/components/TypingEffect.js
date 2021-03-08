@@ -2,7 +2,6 @@ import React from 'react';
 import _ from 'lodash';
 
 import PropTypes from "prop-types";
-import styles from "./index.module.css";
 import {classNames} from '../utils';
 
 export default class TypingEffect extends React.Component {
