@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-export default class Action extends React.Component {
+export default class TypingEffect extends React.Component {
     render() {
         let action = _.get(this.props, 'action', null);
         return (
