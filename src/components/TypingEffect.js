@@ -1,6 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 
+import PropTypes from "prop-types";
+
 export default class TypingEffect extends React.Component {
     render() {
         let action = _.get(this.props, 'action', null);
