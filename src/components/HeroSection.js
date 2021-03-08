@@ -40,6 +40,7 @@ export default class HeroSection extends React.Component {
                       <SectionActions {...this.props} actions={_.get(section, 'actions', null)} />
                     </div>
                     )}
+                    <TypingEffect />
                   </div>
                 </div>
               </div>
