@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Learn More
         url: /features
-        style: link
+        style: primary
         no_follow: true
       - label: Contact Us
         url: /contact
