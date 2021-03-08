@@ -14,7 +14,7 @@ import HeroSection from './HeroSection';
 import SectionActions from './SectionActions';
 import TeamSection from './TeamSection';
 import Layout from './Layout';
-import TypintEffect from './'
+import TypintEffect from './TypingEffect';
 
 export {
     Action,
