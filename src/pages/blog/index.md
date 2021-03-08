@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: cta_section
-    title: Join the Team
+    title: Blog
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     has_background: true
     background_color: blue
