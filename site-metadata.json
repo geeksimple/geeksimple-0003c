@@ -40,14 +40,6 @@
                 "no_follow": false,
                 "type": "action",
                 "url": "/datenschutzerklarung"
-            },
-            {
-                "label": "Datenschutzerklärung",
-                "url": "/datenschutzerklärung",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_social": false,
