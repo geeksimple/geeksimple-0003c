@@ -49,7 +49,7 @@
 .hero,
 .section--features {
   .cell {
-    max-width: $width-md;
+    max-width: -md;
 
     &:only-child {
       flex: 0 0 100%;
