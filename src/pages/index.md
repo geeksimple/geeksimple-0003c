@@ -23,8 +23,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - section_id: features
-    type: section_grid
+  - type: section_grid
     col_number: three
     grid_items:
       - title: Documentation
