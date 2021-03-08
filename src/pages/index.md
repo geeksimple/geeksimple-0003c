@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: geek_simple
     actions: []
     align: left
     image_alt: Hero placeholder image
