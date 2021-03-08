@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 import PropTypes from "prop-types";
 import styles from "./index.module.css";
+import {Link, withPrefix, classNames} from '../utils';
 
 export default class TypingEffect extends React.Component {
   static propTypes = {
