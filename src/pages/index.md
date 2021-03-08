@@ -30,7 +30,7 @@ sections:
         image_position: right
         actions:
           - label: schnell nachschauen
-            url: /features
+            url: /blog
             style: secondary
       - title: Feature 2
         content: >-
