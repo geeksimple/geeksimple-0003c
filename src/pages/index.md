@@ -15,6 +15,7 @@ sections:
         style: secondary
     align: left
     image_alt: Hero placeholder image
+    image:
     image_position: right
     has_background: true
     background:
