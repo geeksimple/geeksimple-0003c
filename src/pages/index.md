@@ -18,7 +18,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_s
+      background_image: image: images/diagonal-lines.svg
       background_color: blue
       background_image_opacity: 20
       background_image_size: auto
