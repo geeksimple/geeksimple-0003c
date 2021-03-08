@@ -32,7 +32,8 @@ export {
     HeroSection,
     SectionActions,
     TeamSection,
-    Layout
+    Layout,
+    TypintEffect
 };
 
 export default {
