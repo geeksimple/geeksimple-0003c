@@ -63,7 +63,7 @@ export default class TypingEffect extends React.Component {
     return (
       <div className="typingArea">
         {runningText}
-        <span className={styles.blinkingCursor}></span>
+        <span className="blinkingCursor"></span>
       </div>
     );
   }
