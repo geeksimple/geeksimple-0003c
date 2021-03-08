@@ -1,8 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 
-import PropTypes from "prop-types";
-
 import {Link, withPrefix, classNames} from '../utils';
 
 export default class Action extends React.Component {
