@@ -6,9 +6,6 @@ sections:
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     has_background: true
     background_color: blue
-  - type: hero_section
-    title: Blog
-    align: center
   - type: blog_feed_section
     show_recent: false
 seo:
