@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import PropTypes from "prop-types";
-
+import styles from "./index.module.css";
 export default class TypingEffect extends React.Component {
   static propTypes = {
     text: PropTypes.string.isRequired,
