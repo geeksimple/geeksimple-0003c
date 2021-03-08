@@ -18,7 +18,7 @@
   background: #607d8b;
   display: inline-block;
   margin: 0 1px;
-  animation: blink 0.9s infinite;
+  animation: 0.6s blink 20, move 3s 1.5s forwards steps(1);
 }
 
 @keyframes blink {
