@@ -9,8 +9,6 @@ sections:
   - type: hero_section
     title: Blog
     align: center
-    has_background: true
-    background_color: blue
   - type: blog_feed_section
     show_recent: false
 seo:
