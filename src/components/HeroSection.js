@@ -41,7 +41,7 @@ export default class HeroSection extends React.Component {
                     </div>
                     )}
                     <div className="section__actions btn-group">
-                      
+                      <TypingEffect />
                     </div>
                   </div>
                 </div>
