@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix} from '../utils';
 import SectionActions from './SectionActions';
+import TypintEffect from './TypingEffect';
 
 export default class HeroSection extends React.Component {
     render() {
