@@ -6,10 +6,7 @@ sections:
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
+    actions: []
     align: left
     image_alt: Hero placeholder image
     image_position: right
