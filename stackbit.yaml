@@ -280,7 +280,7 @@ models:
             - features_section
             - hero_section
             - team_section
-            - typing
+            - typing_effect_section
       - type: model
         name: seo
         models:
