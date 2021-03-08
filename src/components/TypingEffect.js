@@ -12,7 +12,7 @@ export default class TypingEffect extends React.Component {
 
   static defaultProps = {
     text:
-      "Dieser Blog ist für alle, die beim ",
+      "Dieser Blog ist ",
     wordsPerSecond: 20
   };
 
