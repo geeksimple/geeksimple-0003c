@@ -52,5 +52,6 @@ export default {
     HeroSection,
     SectionActions,
     TeamSection,
-    Layout
+    Layout,
+    TypintEffect
 };
