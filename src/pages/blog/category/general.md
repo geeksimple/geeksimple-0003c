@@ -1,8 +1,6 @@
 ---
 title: General
 sections:
-  - type: hero_section
-    align: center
   - type: blog_feed_section
     title: All Posts In General
     show_recent: false
