@@ -19,7 +19,7 @@ sections:
     features:
       - content: >
           Hallo und Willkommen bei geek_simple! :) Wenn du diese Zeilen hier liest, bedeutet das zwangsläufig, dass Du im Internet unterwegs bist. Für die mesiten ist das völlig normal und im Alltag nicht mehr weg zu denken. Doch wie funktioniert das Internet eigentlich? Für einige wirkt es wie Magie und für andere war es gefühlt schon immer da. Viele Begriffe aus der IT sind allgegenwärtig. Aber wie viele verstehen wir wirklich?
-          Dieser Blog soll Licht u  
+          Dieser Blog soll Licht ins Dunkle bringen  
           Wenn für Dich bisher das Internet immer etwas war, was einfach schon immer da war oder Dir wie pure Magie vorkommt
           Begriffe aus der IT sind allgegenwärtig. Da wird von Algorithmen
           gesprochen, die unser Nutzungsverhalten bei Netflix auswerten.
