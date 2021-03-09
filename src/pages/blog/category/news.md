@@ -1,9 +1,6 @@
 ---
 title: News
 sections:
-  - type: hero_section
-    
-    align: center
   - type: blog_feed_section
     title: All Posts In News
     show_recent: false
