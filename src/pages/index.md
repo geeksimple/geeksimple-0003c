@@ -31,7 +31,7 @@ sections:
         image_position: right
         actions:
           - label: schnell weiterlesen
-            url: /blog
+            url: /blog/inhalt
             style: secondary
   - type: blog_feed_section
     title: Was gibt es neues
