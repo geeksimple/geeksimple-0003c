@@ -3,7 +3,7 @@ title: Was erwartet Dich
 date: '2021-03-09'
 tags: []
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Lies hier nach, warum der Blog für Dich interessant sei
 seo:
   title: ''
   description: ''
