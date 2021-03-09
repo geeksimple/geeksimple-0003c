@@ -2,7 +2,7 @@
 title: Algorithmus
 sections:
   - type: blog_feed_section
-    title: Alle Beiträge zu "Algorithmus"
+    title: Alle Beiträge zum Thema "Algorithmus"
     show_recent: false
     category: src/data/categories/algorithmus.yaml
 seo:
