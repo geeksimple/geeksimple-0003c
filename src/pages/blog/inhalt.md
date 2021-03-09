@@ -22,4 +22,5 @@ Diese Begriffe sind Teil unseres Wortschatzes geworden. Wenn ich aber willkürli
 Für diesen Fall, oder um beim nächsten Familienessen so richtig anzugeben oder wenn es Euch einfach interessiert, gibt es diesen Blog. Hier werden (mittlerweile) alltägliche Begriffe wie Algorithmus, WLan, Datenbank usw. ganz einfach und anschaulich erklärt. 
 
 Dabei ist hier nicht der Anspruch bis ins kleinste technische Detail und in die Tiefe zu gehen, sondern euch auf kompakte und unterhaltsame Weise verschiedene Begriffe und Themen der IT näherzubringen. Seht diesen Blog als Lückenschließer, als Spitze des Eisbergs und wenn ihr Lust auf mehr habt, gibt es eine Fülle an Fachliteratur, die Euch mit tiefem, fundiertem Fachwissen versorgen :)
+
 Viel Spaß :)
