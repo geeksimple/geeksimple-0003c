@@ -21,16 +21,7 @@ sections:
           Hallo und Willkommen bei geek_simple! :) Wenn du diese Zeilen hier liest, bedeutet das zwangsläufig, dass Du im Internet unterwegs bist. Für die mesiten ist das völlig normal und im Alltag nicht mehr weg zu denken. Doch wie funktioniert das Internet eigentlich? Für einige wirkt es wie Magie und für andere war es gefühlt schon immer da. Viele Begriffe aus der IT sind allgegenwärtig. Aber wie viele verstehen wir wirklich?
           Dieser Blog soll Licht ins Dunkle bringen und Begriffe sowie Themen einfach und anschaulich erklären.
 
-         worden. Wenn ich aber willkürlich Menschen auf der Straße diese
-          Fragen stelle, können sie mir wirklich die Begriffe erklären? Für
-          diesen Fall, oder um beim nächsten Familienessen so richtig anzugeben
-          oder wenn es Euch einfach interessiert, gibt es diesen Blog. Hier
-          werden (mittlerweile) alltägliche Begriffe wie Algorithmus, WLan,
-          Datenbank usw. ganz einfach und anschaulich erklärt. Dabei ist hier
-          nicht der Anspruch bis ins kleinste technische Detail und in die Tiefe
-          zu gehen, sondern euch auf kompakte und unterhaltsame Weise
-          verschiedene Begriffe und Themen der IT näherzubringen. Seht diesen
-          Blog als Lückenschließer, als Spitze des Eisbergs und wenn ihr Lust
+         og als Lückenschließer, als Spitze des Eisbergs und wenn ihr Lust
           auf mehr habt, gibt es eine Fülle an Fachliteratur, die Euch mit
           tiefem, fundiertem Fachwissen versorgen :)
 
