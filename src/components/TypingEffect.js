@@ -12,7 +12,7 @@ export default class TypingEffect extends React.Component {
 
   static defaultProps = {
     text:
-      "Die beste Grundlage für jedes Buzzword Bingo.",
+      "F",
     wordsPerSecond: 20
   };
 
