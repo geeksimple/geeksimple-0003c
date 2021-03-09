@@ -4,7 +4,7 @@ sections:
   - type: blog_feed_section
     title: Alle Beiträge zu Internet
     show_recent: false
-    category: src/data/categories/algorithmus.yaml
+    category: src/data/categories/internet.yaml
 seo:
   title: ''
   description: ''
