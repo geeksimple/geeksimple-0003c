@@ -1,7 +1,6 @@
 ---
 title: lorem-ipsum
 date: '2021-03-09'
-categories: []
 tags: []
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
