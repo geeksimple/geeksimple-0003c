@@ -18,7 +18,7 @@ sections:
     title: Was gibt es hier
     features:
       - content: >
-          Hallo und Willkommen bei geek_simple! :) Wenn du diese Zeilen hier liest, bedeutet das zwangsläufig, dass Du im Internet unterwegs bist. Für die mesiten ist das völlig normal und im Alltag nicht mehr weg zu denken. Doch wie funktioniert es eigentlich? Für einige wirkt es wie Magie und für   
+          Hallo und Willkommen bei geek_simple! :) Wenn du diese Zeilen hier liest, bedeutet das zwangsläufig, dass Du im Internet unterwegs bist. Für die mesiten ist das völlig normal und im Alltag nicht mehr weg zu denken. Doch wie funktioniert es eigentlich? Für einige wirkt es wie Magie und für andere war es gefühlt schon immer da.  
           Wenn für Dich bisher das Internet immer etwas war, was einfach schon immer da war oder Dir wie pure Magie vorkommt
           Begriffe aus der IT sind allgegenwärtig. Da wird von Algorithmen
           gesprochen, die unser Nutzungsverhalten bei Netflix auswerten.
