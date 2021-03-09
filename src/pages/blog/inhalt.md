@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Lorem ipsum
+## Was erwartet Dich
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
