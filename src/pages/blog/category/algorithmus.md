@@ -6,7 +6,7 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
-    category: src/data/categories/general.yaml
+    category: src/data/categories/algorithmus.yaml
 seo:
   title: ''
   description: ''
