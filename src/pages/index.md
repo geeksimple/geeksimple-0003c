@@ -18,7 +18,7 @@ sections:
     title: Was gibt es hier
     features:
       - content: >
-          Hallo und Willkommen bei geek_simple! :) Wenn du diese Zeilen hier liest, bedeutet das zwangsläufig, dass Du im Internet unterwegs bist. 
+          Hallo und Willkommen bei geek_simple! :) Wenn du diese Zeilen hier liest, bedeutet das zwangsläufig, dass Du im Internet unterwegs bist. Wenn 
           Begriffe aus der IT sind allgegenwärtig. Da wird von Algorithmen
           gesprochen, die unser Nutzungsverhalten bei Netflix auswerten.
           Krypto-Währungen wie Bitcoins wirken wie der Gegenentwurf zu den
