@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: geek_simple - Endlich Internet & Co. verstehen
+    title: geek_simple - endlich Internet & Co. verstehen
     actions: []
     align: left
     image_alt: Hero placeholder image
