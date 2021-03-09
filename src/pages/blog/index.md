@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: cta_section
-    title: Blog
+    title: Alle Beiträge
     has_background: true
     background_color: blue
   - type: blog_feed_section
