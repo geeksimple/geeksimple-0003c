@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in General
+      value: Posts in Algorithmus
       keyName: property
     - name: 'og:description'
       value: This is the category archive page
