@@ -5,6 +5,7 @@ sections:
     title: All Posts In Algorithmus
     align: center
   - type: blog_feed_section
+    title:
     show_recent: false
     category: src/data/categories/algorithmus.yaml
 seo:
