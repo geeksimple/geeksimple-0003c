@@ -20,16 +20,8 @@ sections:
       - content: >
           Hallo und Willkommen bei geek_simple! :) Wenn du diese Zeilen hier liest, bedeutet das zwangsläufig, dass Du im Internet unterwegs bist. Für die mesiten ist das völlig normal und im Alltag nicht mehr weg zu denken. Doch wie funktioniert das Internet eigentlich? Für einige wirkt es wie Magie und für andere war es gefühlt schon immer da. Viele Begriffe aus der IT sind allgegenwärtig. Aber wie viele verstehen wir wirklich?
           Dieser Blog soll Licht ins Dunkle bringen und Begriffe sowie Themen einfach und anschaulich erklären.
-           
-          Wenn für Dich bisher das Internet immer etwas war, was einfach schon immer da war oder Dir wie pure Magie vorkommt
-          Begriffe aus der IT sind allgegenwärtig. Da wird von Algorithmen
-          gesprochen, die unser Nutzungsverhalten bei Netflix auswerten.
-          Krypto-Währungen wie Bitcoins wirken wie der Gegenentwurf zu den
-          greifbaren, fühlbaren Münzen und Scheinen in unserem Geldbeutel. Die
-          Blockchain rettet die Welt. Künstliche Intelligenz sowieso. Oder sie
-          werden uns alle unterwerfen, diese Roboter und diese künstliche
-          Intelligenz, die scheinbar schleichend alles übernehmen. Sie sind auf
-          jeden Fall dauernd Thema, bei Politikern und Nachrichtenportalen. Dann
+
+         n Fall dauernd Thema, bei Politikern und Nachrichtenportalen. Dann
           gibt es auch noch diese “Digitalisierung”, die wir verpennen.
 
 
