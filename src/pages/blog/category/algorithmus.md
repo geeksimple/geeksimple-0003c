@@ -2,7 +2,7 @@
 title: Algorithmus
 sections:
   - type: hero_section
-    title: All Posts In Tutorials
+    title: All Posts In Algorithmus
     align: center
   - type: blog_feed_section
     show_recent: false
