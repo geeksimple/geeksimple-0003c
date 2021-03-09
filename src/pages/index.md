@@ -18,7 +18,7 @@ sections:
     title: Was gibt es hier
     features:
       - content: >
-          Hallo und Willkommen bei geek_simple! :) Du hast diese Seite gefunden, was schon
+          Hallo und Willkommen bei geek_simple! :) Du hast diese Seite gefunden, was schon einmal bedeutet, dass
           Begriffe aus der IT sind allgegenwärtig. Da wird von Algorithmen
           gesprochen, die unser Nutzungsverhalten bei Netflix auswerten.
           Krypto-Währungen wie Bitcoins wirken wie der Gegenentwurf zu den
