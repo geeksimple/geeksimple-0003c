@@ -8,7 +8,7 @@ sections:
     show_recent: false
     category: src/data/categories/algorithmus.yaml
 seo:
-  title: Posts in General
+  title: Posts in Algorithmus
   description: This is the category archive page
   extra:
     - name: 'og:type'
