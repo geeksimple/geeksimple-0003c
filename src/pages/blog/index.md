@@ -3,7 +3,6 @@ title: Blog
 sections:
   - type: cta_section
     title: Blog
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     has_background: true
     background_color: blue
   - type: blog_feed_section
