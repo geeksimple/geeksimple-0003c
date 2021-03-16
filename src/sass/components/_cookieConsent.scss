@@ -1,4 +1,18 @@
 /**
  * Cookie Style
  */
- .banner
+ .banner{
+  background-color: $color-bg;
+  border: 1px solid $color-border;
+  border-radius: 10px;
+  box-shadow: $box-shadow;
+  box-sizing: border-box;
+  display: flex;    
+  flex-direction: column;
+  flex-grow: 1;
+  transition: all 0.5s ease 0s;
+  &:hover {
+    transform: translate3d(0px, -5px, 0px);
+    box-shadow: rgb(204, 204, 204) 0px 1px 1px, rgb(204, 204, 204) 0px 4px 4px;
+  }
+}
