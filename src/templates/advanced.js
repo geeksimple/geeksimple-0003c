@@ -30,7 +30,7 @@ export default class Advanced extends React.Component {
                 <CookieConsent
                     debug={true}
                     disableStyles={true}
-                    {OPTIONS.BOTTOM}
+                    location={OPTIONS.BOTTOM}
                     buttonText="Akzeptieren"
                     cookieName="myAwesomeCookieName2"
                     style={{ background: "#98756F" }}
