@@ -35,7 +35,7 @@ export default class Advanced extends React.Component {
                     cookieName="myAwesomeCookieName2"
                       buttonClasses="btn btn-primary"
                     containerClasses="alert alert-warning col-lg-12"
-  contentClasses="text-capitalize"
+                    contentClasses="text-capitalize"
                     //style={{ background: "#98756F" }}
                     //buttonStyle={{ color: "#F19E8E", fontSize: "13px" }}
                     expires={999}
