@@ -35,7 +35,7 @@ export default class Advanced extends React.Component {
                   expires={999}
                   overlay={true}
                 >
-                  Diese Webseite verwendet Cookies, um die Funktionalität zu gewährleisten.
+                Diese Webseite verwendet Cookies, um die Funktionalität zu gewährleisten.
               </CookieConsent>
             </Layout>
         );
