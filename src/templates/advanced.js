@@ -33,7 +33,7 @@ export default class Advanced extends React.Component {
                     location="bottom"
                     buttonText="Akzeptieren"
                     cookieName="myAwesomeCookieName2"
-                    buttonClasses="btn btn-primary"
+                    buttonClasses="btn"
                     containerClasses="alert alert-warning col-lg-12"
                     contentClasses="text-capitalize"
                     //style={{ background: "#98756F" }}
