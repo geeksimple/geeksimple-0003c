@@ -36,7 +36,7 @@ export default class Advanced extends React.Component {
                   overlay={true}
                 >
                 Diese Webseite verwendet Cookies, um die Funktionalität zu gewährleisten.
-              </CookieConsent>
+            </CookieConsent>
             </Layout>
         );
     }
