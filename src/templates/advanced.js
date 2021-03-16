@@ -4,6 +4,7 @@ import {graphql} from 'gatsby';
 import CookieConsent, { Cookies } from "react-cookie-consent";
 
 import components, {Layout} from '../components/index';
+import {Link, withPrefix, classNames} from '../utils';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
