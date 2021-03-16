@@ -25,6 +25,18 @@ export default class Advanced extends React.Component {
                   <Component key={section_idx} {...this.props} section={section} site={this.props.pageContext.site} />
                 )
             })}
+                          <CookieConsent
+                  debug={true}
+                  location="bottom"
+                  buttonText="Akzeptieren"
+                  cookieName="myAwesomeCookieName2"
+                  style={{ background: "#98756F" }}
+                  uttonStyle={{ color: "#F19E8E", fontSize: "13px" }}
+                  expires={999}
+                  overlay={true}
+                >
+                  Diese Webseite verwendet Cookies, um die Funktionalität zu gewährleisten.
+              </CookieConsent>
             </Layout>
         );
     }
