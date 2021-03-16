@@ -25,7 +25,7 @@ export default class Advanced extends React.Component {
                   <Component key={section_idx} {...this.props} section={section} site={this.props.pageContext.site} />
                 )
             })}
-                          <CookieConsent
+            <CookieConsent
                   debug={true}
                   location="bottom"
                   buttonText="Akzeptieren"
