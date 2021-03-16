@@ -33,7 +33,7 @@ export default class Advanced extends React.Component {
                     buttonText="Akzeptieren"
                     cookieName="myAwesomeCookieName2"
                     style={{ background: "#98756F" }}
-                    uttonStyle={{ color: "#F19E8E", fontSize: "13px" }}
+                    buttonStyle={{ color: "#F19E8E", fontSize: "13px" }}
                     expires={999}
                     overlay={true}
                     >
