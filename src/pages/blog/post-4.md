@@ -1,7 +1,6 @@
 ---
 title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
 date: '2020-05-30'
-author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/news.yaml
