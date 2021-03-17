@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
-import CookieConsent, { Cookies } from "react-cookie-consent";
+import CookieConsent, { Cookies, getCookieConsentValue } from "react-cookie-consent";
 
 import components, {Layout} from '../components/index';
 import {classNames} from '../utils';
