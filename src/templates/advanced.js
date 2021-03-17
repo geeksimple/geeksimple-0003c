@@ -36,7 +36,7 @@ export default class Advanced extends React.Component {
                     buttonClasses="btn"
                     containerClasses=""
                     contentClasses="text-capitalize"
-                    style={{ background: "#98756F" }}
+                    style={{ background: "#98756F", fontSize: ""}}
                     buttonStyle={{ background: "#F19E8E", color: "#FFF", fontSize: "20px" }}
                     expires={999}
                     overlay={true}
