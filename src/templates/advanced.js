@@ -33,7 +33,7 @@ export default class Advanced extends React.Component {
                     buttonText="Akzeptieren"
                     style={{ background: "#98756F", fontSize: "20px"}}
                     buttonStyle={{ background: "#F19E8E", color: "#FFF", fontSize: "20px" }}
-                    expires={999}
+                    expires={365}
                     overlay={true}
                     >
                     Diese Webseite verwendet Cookies, um die Funktionalität zu gewährleisten.
