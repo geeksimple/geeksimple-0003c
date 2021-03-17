@@ -31,7 +31,6 @@ export default class Advanced extends React.Component {
                     debug={true}
                     location="bottom"
                     buttonText="Akzeptieren"
-                    cookieName="myAwesomeCookieName2"
                     style={{ background: "#98756F", fontSize: "20px"}}
                     buttonStyle={{ background: "#F19E8E", color: "#FFF", fontSize: "20px" }}
                     expires={999}
