@@ -1,6 +1,6 @@
 {
   "name": "geek_simple",
-  "short_name": "Azimuth",
+  "short_name": "geek_simple",
   "icons": [{
     "src": "/images/favicon/android-chrome-192x192.png",
     "sizes": "192x192",
