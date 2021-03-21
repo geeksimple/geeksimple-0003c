@@ -16,7 +16,8 @@
                 "url": "/style-guide",
                 "style": "link"
             }
-        ]
+        ],
+        "logo": "images/icon_geek_simple_1024x1024.png"
     },
     "footer": {
         "has_nav": true,
