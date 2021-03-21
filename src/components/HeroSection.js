@@ -27,8 +27,7 @@ export default class HeroSection extends React.Component {
                   </div>
                   )}
                   <div className="cell section__body">
-                    <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
-                    {_.get(section, 'title', null) && (
+                   {_.get(section, 'title', null) && (
                     <h1 className="section__title">{_.get(section, 'title', null)}</h1>
                     )}
                     {_.get(section, 'subtitle', null) && (
