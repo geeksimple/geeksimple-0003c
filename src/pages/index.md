@@ -21,7 +21,7 @@ sections:
       - content: >
           Hallo und Willkommen bei geek_simple! :) Wenn du diese Zeilen hier
           liest, bedeutet das zwangsläufig, dass Du im Internet unterwegs bist.
-          Für die mesiten ist das völlig normal und im Alltag nicht mehr weg zu
+          Für die meisten ist das völlig normal und im Alltag nicht mehr weg zu
           denken. Doch wie funktioniert das Internet eigentlich? Für einige
           wirkt es wie Magie und für andere war es gefühlt schon immer da. Viele
           Begriffe aus der IT sind allgegenwärtig. Aber wie viele verstehen wir
@@ -55,14 +55,5 @@ seo:
       value: images/starter-preview.png
       keyName: property
       relativeUrl: true
-    ##- name: 'twitter:card'
-    ##  value: summary_large_image
-    ##- name: 'twitter:title'
-    ##  value: Stackbit Starter Theme
-    ##- name: 'twitter:description'
-    ##  value: The preview of the Starter theme
-    ##- name: 'twitter:image'
-    ##  value: images/starter-preview.png
-    ##  relativeUrl: true
 template: advanced
 ---
