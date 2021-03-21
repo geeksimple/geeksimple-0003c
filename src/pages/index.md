@@ -14,6 +14,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+    image: images/favicon/android-chrome-192x192.png
   - type: features_section
     title: Was gibt es hier
     features:
