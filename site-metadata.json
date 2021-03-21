@@ -17,7 +17,8 @@
                 "style": "link"
             }
         ],
-        "logo_alt": "geek_simple"
+        "logo_alt": "geek_simple",
+        "logo": "images/icon_mit_Schrift.png"
     },
     "footer": {
         "has_nav": true,
