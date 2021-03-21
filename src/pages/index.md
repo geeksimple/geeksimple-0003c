@@ -14,7 +14,6 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    image: images/icon_geek_simple_1024x1024.png
   - type: features_section
     title: Was gibt es hier
     features:
