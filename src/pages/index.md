@@ -39,7 +39,7 @@ sections:
     show_recent: true
     recent_count: 3
 seo:
-  title: Stackbit Starter Theme
+  title: geeksimple
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
