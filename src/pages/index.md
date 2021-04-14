@@ -35,7 +35,7 @@ sections:
             url: /blog/inhalt
             style: secondary
   - type: blog_feed_section
-    title: Was gibt es neues
+    title: Was gibt es Neues
     show_recent: true
     recent_count: 3
 seo:
