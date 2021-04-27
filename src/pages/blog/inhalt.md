@@ -22,7 +22,7 @@ So gut wie jeder hat ein Smartphone in der Tasche, surft stundenlang im Internet
 Kann aber jemand wirklich erklären was das Internet ist? Oder künstliche Intelligenz? Oder ein Algorithmus?
 Diese Begriffe sind Teil unseres Wortschatzes geworden. Wenn ich aber willkürlich Menschen auf der Straße diese Fragen stelle, können sie mir wirklich die Begriffe erklären?
 Für diesen Fall, oder
-+ um beim nächsten Familienessen so richtig anzugeben
++ um beim nächsten Familienessen so richtig anzugeben 🤓
 + wenn Ihr bis hierher die meiste Zeit nur Bahnhof verstanden habt
 + oder wenn es Euch einfach interessiert
 
