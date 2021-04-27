@@ -54,7 +54,7 @@ Unabhängig davon, wie ihr an die Sache rangeht, hat eine Anleitung immer eine f
 
 Wenn ihr den Lösungsweg, bzw. Algorithmus, den das schwedische Möbelhaus zum Aufbau des Lieblingsregals bereitstellt, befolgt, purzelt am Ende ein Ergebnis dabei heraus. Im Idealfall ist es euer Bücherregal.
 
-Das waren jetzt zwei Beispiele aus dem Alltag. Aber auch mathematische Gleichungen sind Algorithmen. Wenn ihr die 20% Rabatt, die es auf das Kleidungsstück in euren Händen gibt, im Geschäft ausrechnet, erfolgt dies nach einem festgelegten Rechenweg.
+Das waren jetzt zwei Beispiele aus dem Alltag. Aber auch mathematische Gleichungen sind Algorithmen. Wenn ihr die 20% Rabatt, die es auf das Kleidungsstück 👕 in euren Händen gibt, im Geschäft ausrechnet, erfolgt dies nach einem festgelegten Rechenweg.
 
 Ihr seht, hinter dem Begriff Algorithmus steckt an sich nichts Spektakuläres. 
 Spannender wird es, wenn man sich mit Algorithmen beschäftigt, die von Rechnern ausgeführt werden und sich ein konkretes Problem mit dem zugehörigen Lösungsweg näher anschaut.
