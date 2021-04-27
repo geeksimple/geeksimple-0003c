@@ -14,7 +14,9 @@ seo:
 template: post
 ---
 Begriffe aus der IT sind allgegenwärtig. Da wird von Algorithmen gesprochen, die unser Nutzungsverhalten bei Netflix auswerten. Krypto-Währungen wie Bitcoins wirken wie der Gegenentwurf zu den greifbaren, fühlbaren Münzen und Scheinen in unserem Geldbeutel. Die Blockchain rettet die Welt. Künstliche Intelligenz sowieso. Oder sie werden uns alle unterwerfen, diese Roboter und diese künstliche Intelligenz, die scheinbar schleichend alles übernehmen.
-Viele solcher Begriffe sind auf jeden Fall dauernd Thema, bei Politikern und Nachrichtenportalen. Dann gibt es auch noch diese “Digitalisierung”, die wir verpennen.
+Viele solcher Begriffe sind auf jeden Fall dauernd Thema, bei Politikern und Nachrichtenportalen. 
+
+Dann gibt es auch noch diese “Digitalisierung”, die wir verpennen.
 So gut wie jeder hat ein Smartphone in der Tasche, surft stundenlang im Internet und hängt in sozialen Netzwerken rum.
 
 
