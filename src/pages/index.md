@@ -5,7 +5,7 @@ sections:
     title: geek_simple - endlich Internet & Co. verstehen
     actions: []
     align: left
-    image_alt: Hero placeholder image
+    image_alt: 
     image_position: right
     has_background: true
     background:
