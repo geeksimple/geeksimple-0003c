@@ -9,9 +9,8 @@ tags:
 image: images/Background_algorithmus.png
 image_alt: Algorithmus
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu
+  maschinellen Abläufen hat
 seo:
   title: >-
     Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu
