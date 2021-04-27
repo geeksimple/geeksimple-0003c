@@ -6,8 +6,6 @@ categories:
   - src/data/categories/news.yaml
   - src/data/categories/algorithmus.yaml
 tags:
-  - JAMstack
-  - Sourcebit
 image: images/Background_programm.png
 image_alt: Post 4 placeholder image
 excerpt: Was mache ich nun mit dem Algorithmus?
