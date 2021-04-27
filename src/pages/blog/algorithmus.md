@@ -4,8 +4,6 @@ date: '2021-04-12'
 categories:
   - src/data/categories/algorithmus.yaml
 tags:
-  - Algorithmus
-  - null
 image: images/Background_algorithmus.png
 image_alt: Algorithmus
 excerpt: >-
