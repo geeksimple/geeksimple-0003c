@@ -30,4 +30,4 @@ gibt es diesen Blog. Hier werden (mittlerweile) alltägliche Begriffe wie Algori
 
 Dabei ist hier nicht der Anspruch bis ins kleinste technische Detail und in die Tiefe zu gehen, sondern euch auf kompakte und unterhaltsame Weise verschiedene Begriffe und Themen der IT näherzubringen. Seht diesen Blog als Lückenschließer, als Spitze des Eisbergs und wenn ihr Lust auf mehr habt, gibt es eine Fülle an Fachliteratur, die Euch mit tiefem, fundiertem Fachwissen versorgen :)
 
-Viel Spaß :)
+Viel Spaß!
