@@ -35,7 +35,7 @@ seo:
       relativeUrl: true
 template: post
 ---
-This is [an example](http://example.com) link.
+
 Im Beitrag [Algorithmus](http://example.com) bin ich darauf eingegangen, was sich im Allgemeinen hinter dem Begriff verbirgt. Wir wissen, dass es sich um eine eindeutige Beschreibung mit konkreten Schritten zur Lösung eines Problems handelt.
 Aber wenn wir einen Algorithmus in Textform aufschreiben, versteht das noch keine Maschine. 
 
