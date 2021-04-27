@@ -9,8 +9,8 @@ tags:
 image: images/Background_algorithmus.png
 image_alt: Algorithmus
 excerpt: >-
-  Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu
-  maschinellen Abläufen hat
+  oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu maschinellen Abläufen
+  hat
 seo:
   title: >-
     Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu
