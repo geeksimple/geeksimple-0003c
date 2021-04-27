@@ -13,7 +13,7 @@ excerpt: >-
   philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
   affecit, quanto.
 seo:
-  title: Amet Nulla Facilisi Morbi Tempus
+  title: Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu maschinellen Abläufen hat 
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
   extra:
     - name: 'og:type'
