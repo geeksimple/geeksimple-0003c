@@ -1,5 +1,5 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: Programm und Programmiersprachen
 date: '2021-04-26'
 categories:
   - src/data/categories/tutorials.yaml
