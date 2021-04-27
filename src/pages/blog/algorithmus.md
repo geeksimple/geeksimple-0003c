@@ -2,7 +2,7 @@
 title: Algorithmus
 date: '2021-04-12'
 categories:
-  - src/data/categories/algorithmus.yaml
+  - src/data/categories/tutorials.yaml
 tags:
   - Algorithmus
   - null
