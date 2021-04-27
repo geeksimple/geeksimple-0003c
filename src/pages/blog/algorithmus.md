@@ -50,7 +50,7 @@ Das Ziel ist es, ein Problem (das Verlangen nach Koffein) zu lösen und der Lös
 Es muss zu jedem Zeitpunkt klar sein, was als nächstes zu tun ist und dass der Vorgang nach den vorgegebenen Schritten endet, wenn ihr ihn nicht vorher abbricht (dann habt ihr aber auch kein Heißgetränk).
 
 Ein weiteres gutes Beispiel sind Bedienungsanleitungen. Ich bin zwar eher der Typ, der keine Geduld dafür hat, Anleitungen durchzulesen und wenn es sich um elektronische Geräte handelt lieber wild auf alle Knöpfe drückt, bis es letztendlich funktioniert. Aber manchmal komme auch ich nicht um ein YouTube Video herum, was ja streng genommen auch eine Anleitung ist.
-Unabhängig davon, wie ihr an die Sache rangeht, hat eine Anleitung immer eine festgelegte Reihenfolge der einzelnen Schritte. Es macht beispielsweise keinen Sinn, zuerst auf den Power Knopf zu drücken und dann das Kabel in die Steckdose zu stecken.
+Unabhängig davon, wie ihr an die Sache rangeht, hat eine Anleitung immer eine festgelegte Reihenfolge der einzelnen Schritte. Es macht beispielsweise keinen Sinn, zuerst auf den Einschaltknopf zu drücken und dann das Kabel in die Steckdose zu stecken.
 
 Wenn ihr den Lösungsweg, bzw. Algorithmus, den das schwedische Möbelhaus zum Aufbau des Lieblingsregals bereitstellt, befolgt, purzelt am Ende ein Ergebnis dabei heraus. Im Idealfall ist es euer Bücherregal.
 
