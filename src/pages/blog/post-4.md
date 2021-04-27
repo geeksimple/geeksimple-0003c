@@ -1,6 +1,6 @@
 ---
 title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
-date: '2020-05-30'
+date: '2020-04-30'
 categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/news.yaml
