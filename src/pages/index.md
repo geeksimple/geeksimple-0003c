@@ -19,7 +19,7 @@ sections:
     title: Was gibt es hier
     features:
       - content: >
-          Hallo und Willkommen bei geek_simple! 🎉 Wenn du diese Zeilen hier
+          Hallo und Willkommen bei geek_simple! 🤗 Wenn du diese Zeilen hier
           liest, bedeutet das zwangsläufig, dass Du im Internet unterwegs bist.
           Für die meisten ist das völlig normal und im Alltag nicht mehr weg zu
           denken. Doch wie funktioniert das Internet eigentlich? Für einige
