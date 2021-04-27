@@ -42,7 +42,7 @@ Aber wenn wir einen Algorithmus in Textform aufschreiben, versteht das noch kein
 Ein einfaches Beispiel: Ihr steht im Geschäft und wollt wissen, wieviel ihr bei 15% Rabatt spart. Das Ziel wäre nun, dass ihr den Betrag des Artikels und die Prozentzahl als Eingabewert nehmt und im Anschluss erfahrt, wie viel der Artikel mit Rabatt kostet und ihr dadurch spart.
 Wir können uns nun den Lösungsweg ausdenken und niederschreiben. Damit die Berechnung ganz automatisch erfolgt, muss unser Text für Maschinen verständlich gemacht werden. Er muss also für Maschinen übersetzt und in eine Form gebracht werden, die verstanden und ausgeführt werden kann. Dies bezeichnet man als **Programm**. 
 
-Ein Programm ist somit ein für Rechner verständlicher Algorithmus.
+> Ein Programm ist somit ein für Rechner verständlicher Algorithmus.
 
 Doch wie funktioniert eine solche Übersetzung? Welche Sprache versteht ein Rechner?
 Hierfür gibt es verschiedene **Programmiersprachen**. Dabei ist jede Sprache durch ihre Syntax und Semantik definiert. Das bedeutet, dass es festgelegte Elemente aus Zeichen gibt, die ihre eigene Bedeutung haben und von der Maschine interpretiert werden können. 
