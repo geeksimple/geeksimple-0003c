@@ -2,9 +2,9 @@
 title: Amet Nulla Facilisi Morbi Tempus
 date: '2021-04-12'
 categories:
-  - src/data/categories/Tutorials.yaml
+  - src/data/categories/tutorials.yaml
 tags:
-  - Algorithmus
+  - Stackbit
   - Netlify
 image: images/Background_algorithmus.png
 image_alt: Algorithmus
