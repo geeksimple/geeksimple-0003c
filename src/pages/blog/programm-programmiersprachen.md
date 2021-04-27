@@ -35,7 +35,7 @@ seo:
 template: post
 ---
 
-Im Beitrag [Algorithmus](https://preview--geeksimple-0003c.stackbit.dev/blog/algorithmus/) bin ich darauf eingegangen, was sich im Allgemeinen hinter dem Begriff verbirgt. Wir wissen, dass es sich um eine eindeutige Beschreibung mit konkreten Schritten zur Lösung eines Problems handelt.
+Im Beitrag [Algorithmus](https://geeksimple/blog/algorithmus/) bin ich darauf eingegangen, was sich im Allgemeinen hinter dem Begriff verbirgt. Wir wissen, dass es sich um eine eindeutige Beschreibung mit konkreten Schritten zur Lösung eines Problems handelt.
 Aber wenn wir einen Algorithmus in Textform aufschreiben, versteht das noch keine Maschine. 
 
 Ein einfaches Beispiel: Ihr steht im Geschäft und wollt wissen, wieviel ihr bei 15% Rabatt spart. Das Ziel wäre nun, dass ihr den Betrag des Artikels und die Prozentzahl als Eingabewert nehmt und im Anschluss erfahrt, wie viel der Artikel mit Rabatt kostet und ihr dadurch spart.
