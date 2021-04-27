@@ -7,7 +7,7 @@ tags:
   - Stackbit
   - Netlify
 image: images/Background_algorithmus.png
-image_alt: Post 5 placeholder image
+image_alt: Algorithmus
 excerpt: >-
   Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
   philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
