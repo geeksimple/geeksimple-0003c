@@ -28,7 +28,6 @@ export default class Advanced extends React.Component {
                 )
             })}
                 <CookieConsent
-                    debug={false}
                     location="bottom"
                     buttonText="Akzeptieren"
                     style={{ background: "#98756F", fontSize: "20px"}}
