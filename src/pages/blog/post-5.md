@@ -2,7 +2,7 @@
 title: Amet Nulla Facilisi Morbi Tempus
 date: '2021-04-12'
 categories:
-  - src/data/categories/Algorithmus.yaml
+  - src/data/categories/Tutorials.yaml
 tags:
   - Algorithmus
   - Netlify
