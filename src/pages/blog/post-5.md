@@ -1,5 +1,5 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: Algorithmus
 date: '2021-04-12'
 categories:
   - src/data/categories/tutorials.yaml
@@ -13,8 +13,12 @@ excerpt: >-
   philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
   affecit, quanto.
 seo:
-  title: Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu maschinellen Abläufen hat 
-  description: 'Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu maschinellen Abläufen hat '
+  title: >-
+    Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu
+    maschinellen Abläufen hat
+  description: >-
+    Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu
+    maschinellen Abläufen hat 
   extra:
     - name: 'og:type'
       value: article
