@@ -42,7 +42,7 @@ seo:
 template: post
 ---
 
-Algorithmen... was sie nicht alles über uns wissen: Sie kennen unsere Lieblingsserien bei Netflix und sagen uns, was wir als nächstes schauen sollen. Auf Facebook zeigen sie uns Werbung, die zu uns passt und sie liegen oft verdammt richtig. Das ist schon so gruselig, dass viele das Gefühl haben, sie werden von Facebook belauscht. Doch das ist gar nichts gegenüber dem YOUTUBE-ALGORITHMUS (stellt euch bitte an dieser Stelle vor, wie die letzten beiden Worte in echohafter Donnerstimme ausgesprochen werden...). Vor ihm erzittert die YouTube-Gemeinde. 
+Algorithmen... was sie nicht alles über uns wissen: Sie kennen unsere Lieblingsserien bei Netflix und sagen uns, was wir als nächstes schauen sollen. Auf Facebook zeigen sie uns Werbung, die zu uns passt und sie liegen oft verdammt richtig. Das ist schon so gruselig, dass viele das Gefühl haben, sie werden von Facebook belauscht. Doch das ist gar nichts gegenüber dem YOUTUBE-ALGORITHMUS 😱 (stellt euch bitte an dieser Stelle vor, wie die letzten beiden Worte in echohafter Donnerstimme ausgesprochen werden...). Vor ihm erzittert die YouTube-Gemeinde. 
 Das sind nur wenige, prominente Beispiele; ich könnte hier noch etliche weitere aufzählen, die regelmäßig in diversen Beiträgen genannt werden. Oft wird von dem “Algorithmus” oder den “Algorithmen” gesprochen. Doch was ist das eigentlich?
 
 Im Grunde kann man sagen, dass ihr “Algorithmen” tatsächlich in eurem Alltag anwendet. Wenn ihr morgens euren Kaffee oder Tee ☕ kocht, führt ihr immer die gleichen Schritte, immer in der gleichen Reihenfolge aus. Am Ende habt ihr, je nachdem wie verschlafen ihr seid und wie konzentriert ihr die Schritte ausführt, ein genießbares Getränk. 
