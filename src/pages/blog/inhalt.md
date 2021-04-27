@@ -19,7 +19,6 @@ Viele solcher Begriffe sind auf jeden Fall dauernd Thema, bei Politikern und Nac
 Dann gibt es auch noch diese “Digitalisierung”, die wir verpennen.
 So gut wie jeder hat ein Smartphone in der Tasche, surft stundenlang im Internet und hängt in sozialen Netzwerken rum.
 
-
 Kann aber jemand wirklich erklären was das Internet ist? Oder künstliche Intelligenz? Oder ein Algorithmus?
 Diese Begriffe sind Teil unseres Wortschatzes geworden. Wenn ich aber willkürlich Menschen auf der Straße diese Fragen stelle, können sie mir wirklich die Begriffe erklären?
 Für diesen Fall, oder
