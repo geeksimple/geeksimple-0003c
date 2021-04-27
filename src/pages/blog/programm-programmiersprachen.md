@@ -2,6 +2,7 @@
 title: Programm und Programmiersprachen
 date: '2021-04-26'
 categories:
+  - src/data/categories/algorithmus.yaml
 tags:
 image: images/Background_programm.png
 image_alt: Post 4 placeholder image
