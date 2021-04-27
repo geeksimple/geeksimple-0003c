@@ -35,7 +35,7 @@ export default class Post extends React.Component {
                   )}
                   <h1 className="post__title">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
                   <div className="post__meta">
-                    <span>🕘 <time dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%B %d, %Y')}</time></span>
+                    <span>🕘 <time dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%d, %Y')}</time></span>
                     {_.get(this.props, 'pageContext.frontmatter.author', null) && ((() => {
                         let author = getData(this.props.pageContext.site.data, _.get(this.props, 'pageContext.frontmatter.author', null));
                         return (
