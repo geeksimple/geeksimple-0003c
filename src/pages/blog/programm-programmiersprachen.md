@@ -45,7 +45,7 @@ Wir können uns nun den Lösungsweg ausdenken und niederschreiben. Damit die Ber
 Ein Programm ist somit ein für Rechner verständlicher Algorithmus.
 
 Doch wie funktioniert eine solche Übersetzung? Welche Sprache versteht ein Rechner?
-Hierfür gibt es verschiedene Programmiersprachen. Dabei ist jede Sprache durch ihre Syntax und Semantik definiert. Das bedeutet, dass es festgelegte Elemente aus Zeichen gibt, die ihre eigene Bedeutung haben und von der Maschine interpretiert werden können. 
+Hierfür gibt es verschiedene **Programmiersprachen. Dabei ist jede Sprache durch ihre Syntax und Semantik definiert. Das bedeutet, dass es festgelegte Elemente aus Zeichen gibt, die ihre eigene Bedeutung haben und von der Maschine interpretiert werden können. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem illi videri nihil dolere. Quid est enim aliud esse versutum. Age, inquies, ista parva sunt. Verum hoc idem saepe faciamus. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Duo Reges: constructio interrete. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.
 
