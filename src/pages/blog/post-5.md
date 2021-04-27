@@ -4,7 +4,7 @@ date: '2021-04-12'
 categories:
   - src/data/categories/tutorials.yaml
 tags:
-  - Al
+  - Algorithmus
   - Netlify
 image: images/Background_algorithmus.png
 image_alt: Algorithmus
