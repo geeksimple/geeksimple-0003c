@@ -57,5 +57,5 @@ Wenn ihr den Lösungsweg, bzw. Algorithmus, den das schwedische Möbelhaus zum A
 Das waren jetzt zwei Beispiele aus dem Alltag. Aber auch mathematische Gleichungen sind Algorithmen. Wenn ihr die 20% Rabatt, die es auf das Kleidungsstück 👕 in euren Händen gibt, im Geschäft ausrechnet, erfolgt dies nach einem festgelegten Rechenweg.
 
 Ihr seht, hinter dem Begriff Algorithmus steckt an sich nichts Spektakuläres. 
-Spannender wird es, wenn man sich mit Algorithmen beschäftigt, die von Rechnern ausgeführt werden und sich ein konkretes Problem mit dem zugehörigen Lösungsweg näher anschaut.
+Spannender wird es, wenn man sich mit Algorithmen beschäftigt, die von Rechnern ausgeführt werden und sich ein konkretes Problem mit dem zugehörigen Lösungsweg näher anschaut 👀.
 
