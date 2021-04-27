@@ -5,7 +5,7 @@ categories:
   - src/data/categories/tutorials.yaml
 tags:
   - Algorithmus
-  - Netlify
+  - null
 image: images/Background_algorithmus.png
 image_alt: Algorithmus
 excerpt: >-
