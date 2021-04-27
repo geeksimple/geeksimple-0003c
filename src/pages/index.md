@@ -20,7 +20,7 @@ sections:
     features:
       - content: >
           Hallo und Willkommen bei geek_simple! 🤗 Wenn du diese Zeilen hier
-          liest, bedeutet das zwangsläufig, dass Du im Internet unterwegs bist.
+          liest, bedeutet das zwangsläufig, dass Du im Internet unterwegs bist. 👍
           Für die meisten ist das völlig normal und im Alltag nicht mehr weg zu
           denken. Doch wie funktioniert das Internet eigentlich? Für einige
           wirkt es wie Magie und für andere war es gefühlt schon immer da. Viele
