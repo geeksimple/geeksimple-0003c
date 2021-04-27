@@ -25,7 +25,6 @@ Diese Begriffe sind Teil unseres Wortschatzes geworden. Wenn ich aber willkürli
 Für diesen Fall, oder
 + um beim nächsten Familienessen so richtig anzugeben
 + wenn Ihr bis hierher die meiste Zeit nur Bahnhof verstanden habt
-+ 
 + oder wenn es Euch einfach interessiert
 gibt es diesen Blog. Hier werden (mittlerweile) alltägliche Begriffe wie Algorithmus, WLan, Datenbank usw. ganz einfach und anschaulich erklärt.
 
