@@ -14,7 +14,7 @@ excerpt: >-
   affecit, quanto.
 seo:
   title: Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu maschinellen Abläufen hat 
-  description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+  description: 'Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu maschinellen Abläufen hat '
   extra:
     - name: 'og:type'
       value: article
