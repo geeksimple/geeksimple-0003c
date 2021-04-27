@@ -23,7 +23,8 @@ So gut wie jeder hat ein Smartphone in der Tasche, surft stundenlang im Internet
 Kann aber jemand wirklich erklären was das Internet ist? Oder künstliche Intelligenz? Oder ein Algorithmus?
 Diese Begriffe sind Teil unseres Wortschatzes geworden. Wenn ich aber willkürlich Menschen auf der Straße diese Fragen stelle, können sie mir wirklich die Begriffe erklären?
 Für diesen Fall, oder
-+ um beim nächsten Familienessen so richtig anzugebenwenn es Euch einfach interessiert oder wenn Ihr bisher die meiste Zeit nur Bahnhof verstanden habt, gibt es diesen Blog. Hier werden (mittlerweile) alltägliche Begriffe wie Algorithmus, WLan, Datenbank usw. ganz einfach und anschaulich erklärt.
++ um beim nächsten Familienessen so richtig anzugeben
++ wenn es Euch einfach interessiert oder wenn Ihr bisher die meiste Zeit nur Bahnhof verstanden habt, gibt es diesen Blog. Hier werden (mittlerweile) alltägliche Begriffe wie Algorithmus, WLan, Datenbank usw. ganz einfach und anschaulich erklärt.
 
 Dabei ist hier nicht der Anspruch bis ins kleinste technische Detail und in die Tiefe zu gehen, sondern euch auf kompakte und unterhaltsame Weise verschiedene Begriffe und Themen der IT näherzubringen. Seht diesen Blog als Lückenschließer, als Spitze des Eisbergs und wenn ihr Lust auf mehr habt, gibt es eine Fülle an Fachliteratur, die Euch mit tiefem, fundiertem Fachwissen versorgen :)
 
