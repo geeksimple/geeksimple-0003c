@@ -16,7 +16,7 @@ template: post
 Zunächst einmal herzlich Willkommen und ich freue mich sehr, dass Du hier bist! 🥳
 
 Worum geht es hier?
-Begriffe aus der IT sind allgegenwärtig. Da wird von Algorithmen gesprochen, die unser Nutzungsverhalten bei Netflix auswerten. Krypto-Währungen wie Bitcoins wirken wie der Gegenentwurf zu den greifbaren, fühlbaren Münzen und Scheinen in unserem Geldbeutel. Die Blockchain rettet die Welt. Künstliche Intelligenz sowieso. Oder sie werden uns alle unterwerfen, diese Roboter und diese künstliche Intelligenz, die scheinbar schleichend alles übernehmen 😱(Achtung Ironie).
+Begriffe aus der IT sind allgegenwärtig. Da wird von Algorithmen gesprochen, die unser Nutzungsverhalten bei Netflix auswerten. Krypto-Währungen wie Bitcoins wirken wie der Gegenentwurf zu den greifbaren, fühlbaren Münzen und Scheinen in unserem Geldbeutel. Die Blockchain rettet die Welt. Künstliche Intelligenz sowieso. Oder sie werden uns alle unterwerfen, diese Roboter und diese künstliche Intelligenz, die scheinbar schleichend alles übernehmen (Achtung Ironie).
 Viele solcher Begriffe sind auf jeden Fall dauernd Thema, bei Politikern und Nachrichtenportalen. 
 
 Dann gibt es auch noch diese “Digitalisierung”, die wir verpennen.
