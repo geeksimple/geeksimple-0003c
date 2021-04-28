@@ -21,7 +21,6 @@ sections:
   - type: team_section
     title: Our Team
     team:
-      - src/data/team/miles-tone.yaml
       - src/data/team/dianne-ameter.yaml
   - type: cta_section
     title: Join the Team
