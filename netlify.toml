@@ -3,7 +3,7 @@ publish = "public"
 command = "npm run build"
 
 [[redirects]]
-  from = "//index.html"
+  from = "/index.html"
   to = "/new-path"
   status = 301
   force = false
