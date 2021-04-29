@@ -7,14 +7,6 @@
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
-            },
-            {
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "url": "/style-guide",
-                "style": "link"
             }
         ],
         "logo_alt": "geek_simple",
