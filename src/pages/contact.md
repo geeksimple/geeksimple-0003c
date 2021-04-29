@@ -6,7 +6,7 @@ sections:
     align: center
   - type: contact_section
 seo:
-  title: Contact
+  title: Kontakt
   description: This is the contact page
   extra:
     - name: 'og:type'
