@@ -36,7 +36,7 @@ export default class ContactSection extends React.Component {
                   </div>
                   <div className="form-group form-checkbox">
                     <input aria-labelledby="consent-label" type="checkbox" name="consent" id="consent" />
-                    <label id="consent-label" htmlFor="consent">Ich bin damit einverstandenI understand that this form is storing my submitted information so I can be
+                    <label id="consent-label" htmlFor="consent">Ich bin damit einverstanden, dass meine Daten zur Kontaktaufnahme gespeichert und genutzt werden. I understand that this form is storing my submitted information so I can be
                       contacted.</label>
                   </div>
                   <div className="form-submit">
