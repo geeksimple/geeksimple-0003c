@@ -78,7 +78,7 @@
   .navbar__menu {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    background-color: $$color-navigation-menu;
+    background-color: $color-navigation-menu;
     bottom: 0;
     right: -100%;
     max-width: $width-xs;
