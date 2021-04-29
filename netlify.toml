@@ -4,7 +4,7 @@ command = "npm run build"
 
 [[redirects]]
   from = "/index.html"
-  to = "/new-path"
+  to = "https://geeksimple.netlify.app/"
   status = 301
   force = false
   query = {path = ":path"}
