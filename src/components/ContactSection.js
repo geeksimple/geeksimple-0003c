@@ -40,7 +40,7 @@ export default class ContactSection extends React.Component {
                       contacted.</label>
                   </div>
                   <div className="form-submit">
-                    <button type="submit" className="button"></button>
+                    <button type="submit" className="button">abschicken</button>
                   </div>
                 </form>
               </div>
