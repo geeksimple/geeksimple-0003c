@@ -6,6 +6,3 @@ command = "npm run build"
   from = "/index.html"
   to = "https://geeksimple.netlify.app/"
   status = 200
-  force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
