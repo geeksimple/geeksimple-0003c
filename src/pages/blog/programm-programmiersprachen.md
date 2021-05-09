@@ -1,8 +1,8 @@
 ---
-title: Programm und Programmiersprachen
+title: Programm
 date: '2021-04-26'
-categories:
-tags:
+categories: {}
+tags: null
 image: images/Background_programm.png
 image_alt: Post 4 placeholder image
 excerpt: Was mache ich nun mit dem Algorithmus?
