@@ -41,7 +41,7 @@ seo:
       relativeUrl: true
 template: post
 ---
-Algorithmen... was sie nicht alles über uns wissen: Sie kennen unsere Lieblingsserien bei Netflix und sagen uns, was wir als nächstes schauen sollen. Auf Facebook zeigen sie uns Werbung, die zu uns passt und sie liegen oft verdammt richtig. Das ist schon so gruselig, dass viele das Gefühl haben, sie werden von Facebook belauscht. Sie bestimmen die Ergebnisliste der Google-Suche und zeigen die nächsten Trends bei YouTube an. 
+Algorithmen... was sie nicht alles über uns wissen: Sie kennen unsere Lieblingsserien bei Netflix und sagen uns, was wir als nächstes schauen sollen. Auf Facebook zeigen sie uns Werbung, die zu uns passt und sie liegen oft verdammt richtig. Das ist schon so gruselig, dass viele das Gefühl haben, sie werden von Facebook belauscht. Sie bestimmen die Ergebnisliste der Google-Suche und zeigen die nächsten Trends bei YouTube an.
 Das sind nur wenige, prominente Beispiele; ich könnte hier noch etliche weitere aufzählen, die regelmäßig in diversen Beiträgen genannt werden. Oft wird von dem “Algorithmus” oder den “Algorithmen” gesprochen. Doch was ist das eigentlich?
 
 Im Grunde kann man sagen, dass ihr “Algorithmen” tatsächlich in eurem Alltag anwendet. Wenn ihr morgens euren Kaffee oder Tee ☕ kocht, führt ihr immer die gleichen Schritte, immer in der gleichen Reihenfolge aus. Am Ende habt ihr, je nachdem wie verschlafen ihr seid und wie konzentriert ihr die Schritte ausführt, ein genießbares Getränk.
@@ -57,3 +57,5 @@ Das waren jetzt zwei Beispiele aus dem Alltag. Aber auch mathematische Gleichung
 
 Ihr seht, hinter dem Begriff Algorithmus steckt an sich nichts Spektakuläres.
 Spannender wird es, wenn man sich mit konkreten Algorithmen beschäftigt, die von Rechnern ausgeführt werden und sich ein bestimmtes Problem mit dem zugehörigen Lösungsweg näher anschaut 👀.
+
+Algorithmen sind in der IT allgegenwärtig. Daher wird es zu dem Thema, insbesondere zu einzelnen Algorithmen, immer wieder Beiträge geben. Seid also gespannt 🤓
