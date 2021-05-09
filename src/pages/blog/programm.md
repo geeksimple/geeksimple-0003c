@@ -1,7 +1,6 @@
 ---
 title: Programm
 date: '2021-04-26'
-categories: {}
 tags: null
 image: images/Background_programm.png
 image_alt: Post 4 placeholder image
