@@ -58,4 +58,4 @@ Das waren jetzt zwei Beispiele aus dem Alltag. Aber auch mathematische Gleichung
 Ihr seht, hinter dem Begriff Algorithmus steckt an sich nichts Spektakuläres.
 Spannender wird es, wenn man sich mit konkreten Algorithmen beschäftigt, die von Rechnern ausgeführt werden und sich ein bestimmtes Problem mit dem zugehörigen Lösungsweg näher anschaut 👀.
 
-Algorithmen sind in der IT allgegenwärtig. Daher wird es zu dem Thema, insbesondere zu einzelnen Algorithmen, immer wieder Beiträge geben. Seid also gespannt 🤓
+Algorithmen sind in der IT allgegenwärtig. Daher wird es zu dem Thema, insbesondere zu einzelnen Algorithmen, immer wieder Beiträge geben. Bleibt also dabei, es lohnt sich! 🤓
