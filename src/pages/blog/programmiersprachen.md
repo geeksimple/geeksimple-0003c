@@ -50,6 +50,6 @@ Die Programmiersprache COBOL stammt aus den 50ern und verbirgt sich tatsächlich
 
 Das hatte zur Folge, dass die Nachfrage nach COBOL-Programmierer in der ersten Corona-Phase vor allem in der USA stark angestiegen ist, da zum Beispiel die staatliche Arbeitslosenverwaltung auf COBOL basiert. Diese alten Programme kamen während der Corona-Krise sehr an ihre Grenzen und mussten teilweise angepasst werden. 
 
-This is [Quelle](http://example.com) link.
+This is [Quelle](https://www.heise.de/newsticker/meldung/IBM-und-Linux-Foundation-starten-kostenlose-COBOL-Programmierkurse-4701556.html) link.
 Quelle: https://www.heise.de/newsticker/meldung/IBM-und-Linux-Foundation-starten-kostenlose-COBOL-Programmierkurse-4701556.html
 
