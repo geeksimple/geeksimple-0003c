@@ -7,11 +7,9 @@ excerpt: >-
   Hallo Computer, ich rede mit dir!!
 seo:
   title: >-
-    Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu
-    maschinellen Abläufen hat
+    Programmiersprachen
   description: >-
-    Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu
-    maschinellen Abläufen hat 
+    Programmiersprachen
   extra:
     - name: 'og:type'
       value: article
