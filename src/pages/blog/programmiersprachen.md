@@ -2,7 +2,7 @@
 title: Programmiersprachen
 date: '2021-05-10'
 tags: null
-image_alt: Algorithmus
+image_alt: Programmiersprachen
 excerpt: >-
   oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu maschinellen Abläufen
   hat
