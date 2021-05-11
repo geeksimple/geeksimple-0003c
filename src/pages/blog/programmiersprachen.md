@@ -1,8 +1,6 @@
 ---
 title: Programmiersprachen
 date: '2021-05-10'
-categories:
-  - src/data/categories/algorithmus.yaml
 tags: null
 image_alt: Algorithmus
 excerpt: >-
