@@ -4,7 +4,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Blog",
+                "label": "alle Beiträge",
                 "url": "/blog",
                 "style": "link"
             }
