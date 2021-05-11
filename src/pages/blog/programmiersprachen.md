@@ -47,6 +47,7 @@ Natürlich kann man unsere natürlichen Sprachen schwer mit Programmiersprachen 
 Corona hat 2020 gezeigt, dass auch eine totgeglaubte Sprache wieder auferstehen kann. 
 Die Programmiersprache COBOL stammt aus den 50ern und verbirgt sich tatsächlich noch hinter vielen Programmen von Banken und öffentlichen Institutionen. Mit einem stolzen Alter von 60 Jahren gehört sie nicht mehr zu den gängigen Programmiersprachen, sodass COBOL-Programmierer mittlerweile eher die Seltenheit sind. 
 > Ein Programmierer ist jemand, der in der Lage ist Programmiersprachen anzuwenden und damit Programme zu schreiben.
+
 Das hatte zur Folge, dass die Nachfrage nach COBOL-Programmierer in der ersten Corona-Phase vor allem in der USA stark angestiegen ist, da zum Beispiel die staatliche Arbeitslosenverwaltung auf COBOL basiert. Diese alten Programme kamen während der Corona-Krise sehr an ihre Grenzen und mussten teilweise angepasst werden. 
 
 Quelle: https://www.heise.de/newsticker/meldung/IBM-und-Linux-Foundation-starten-kostenlose-COBOL-Programmierkurse-4701556.html
