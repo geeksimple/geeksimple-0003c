@@ -37,7 +37,7 @@ seo:
       value: images/5.png
       relativeUrl: true
 template: post
-image: images/Background_algorithmus.png
+image: images/Background_Programmiersprachen.png
 ---
 Algorithmen... was sie nicht alles über uns wissen: Sie kennen unsere Lieblingsserien bei Netflix und sagen uns, was wir als nächstes schauen sollen. Auf Facebook zeigen sie uns Werbung, die zu uns passt und sie liegen oft verdammt richtig. Das ist schon so gruselig, dass viele das Gefühl haben, sie werden von Facebook belauscht. Sie bestimmen die Ergebnisliste der Google-Suche und zeigen die nächsten Trends bei YouTube an.
 Das sind nur wenige, prominente Beispiele; ich könnte hier noch etliche weitere aufzählen, die regelmäßig in diversen Beiträgen genannt werden. Oft wird von dem “Algorithmus” oder den “Algorithmen” gesprochen. Doch was ist das eigentlich?
