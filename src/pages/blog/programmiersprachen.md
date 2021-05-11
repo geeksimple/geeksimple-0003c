@@ -1,5 +1,5 @@
 ---
-title: Algorithmus
+title: Programmiersprachen
 date: '2021-04-12'
 categories:
   - src/data/categories/algorithmus.yaml
