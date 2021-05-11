@@ -4,8 +4,7 @@ date: '2021-05-10'
 tags: null
 image_alt: Programmiersprachen
 excerpt: >-
-  oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu maschinellen Abläufen
-  hat
+  Hallo Computer, ich rede mit dir!!
 seo:
   title: >-
     Algorithmus - oder warum das Plätzchen-Rezept von Oma Ähnlichkeiten zu
