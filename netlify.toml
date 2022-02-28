@@ -3,6 +3,6 @@ publish = "public"
 command = "npm run build"
 
 [[redirects]]
-  from = "/defaultsite"
-  to = "https://geeksimple.netlify.app/"
-  status = 200
+from = "/*"
+to = "/index.html"
+status = 302
