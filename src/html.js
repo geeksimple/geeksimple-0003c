@@ -2,7 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 
 export default function HTML(props) {
-  return (
+  /*return (
     <html {...props.htmlAttributes}>
       <head>
         {props.headComponents}
@@ -18,6 +18,14 @@ export default function HTML(props) {
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
         {props.postBodyComponents}
+      </body>
+    </html>
+  )*/
+  return (
+    <html {...props.htmlAttributes}>
+      <head></head>
+      <body>
+        <h1>This page is under maintenance</h1>
       </body>
     </html>
   )
