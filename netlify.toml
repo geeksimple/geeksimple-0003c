@@ -3,6 +3,6 @@ publish = "public"
 command = "npm run build"
 
 [[redirects]]
-from = "/*"
+from = "/defaultsite"
 to = "/index.html"
 status = 302
